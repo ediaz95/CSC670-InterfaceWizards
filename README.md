@@ -1,2 +1,2 @@
-# CSC670InterfaceWizards
+# CSC670 InterfaceWizards
 Inventory Application
